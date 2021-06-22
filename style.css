@@ -1,0 +1,41 @@
+#header{
+    border-radius:2px;  
+    background:rgb(0, 255, 179);
+    text-align: center;
+    border:2px;
+    font-size:large;
+    font-style:italic
+}
+
+#pictureAriff{
+    text-align: center;
+    background: darkcyan;
+    border: 5px ;
+}
+
+#pitchWord{
+    text-align: center;
+    border: 5px solid #41e873;
+    font-style: italic;
+}
+
+#year{
+    border:2px black solid;
+}
+
+.table-box{
+    border: 2px black solid;}
+}
+
+.skills{
+    font-style: italic;
+}
+
+#name{
+    border-radius:2px;  
+    background:rgb(255, 0, 119);
+    text-align: center;
+    border:2px;
+    font-size:large;
+    font-style:italic
+}
